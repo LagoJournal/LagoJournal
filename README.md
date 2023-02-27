@@ -66,5 +66,6 @@
 </p>
 
 <br/>
+<br/>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=LagoJournal&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="stats"/></p>
