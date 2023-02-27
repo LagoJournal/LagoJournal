@@ -1,14 +1,24 @@
-<h1 align="center">Hello there 👀, I'm Agustin Lago</h1>
-<h3 align="center">A full-stack developer who's passionated about Front-end development & design from Argentina</h3>
+<h1 align="left">Hey you! Come in! 👀</h1>
+<h2 align="left">My name is Agustin Lago, welcome to my Github.</h2>
+<h3 align="left">I'm a Full-stack developer who's passionated about Front-end & Design from Argentina </h3>
+
+<br/>
+
+🌱 I love learning new technologies and increase my stack so i'm constantly researching new stuff!
+
+👨‍💻 I'm currently expanding my skills on **TypeScript** and Web3 libraries such as **Ethers.Js** & **Web3.Js**
+
+🤝 Wanna work together? Feel free to contact me!
 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustin-lago" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="agustin-lago" /></a>
+<a href="mailto:lagoagustindev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
-
+<br/>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
