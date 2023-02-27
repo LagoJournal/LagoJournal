@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👀, I'm Agustin Lago</h1>
-<h3 align="center">A full-stack devolpeor whos passionated about frontend developer from Argentina</h3>
+<h3 align="center">A full-stack developer who's passionated about Front-end development & design from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
