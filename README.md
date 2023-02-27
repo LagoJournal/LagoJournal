@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👀, I'm Agustin Lago</h1>
 <h3 align="center">A full-stack developer who's passionated about Front-end development & design from Argentina</h3>
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustin-lago" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="agustin-lago" /></a>
@@ -14,6 +16,9 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" />
 </p>
+
+
+
 <h3 align="left">Frontend & Design Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -27,6 +32,9 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" />
 </p>
+
+
+
 <h3 align="left">Backend Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
@@ -36,6 +44,9 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon"/>
 </p>
+
+
+
 <h3 align="left">Management Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -44,5 +55,6 @@
   
 </p>
 
+<br/>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=LagoJournal&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="stats"/></p>
