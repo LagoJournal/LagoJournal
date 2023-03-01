@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" />
 </p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagojournal&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="stats"/></p>
 
 
 
@@ -68,4 +69,11 @@
 <br/>
 <br/>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=LagoJournal&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="stats"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lagojournal&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" alt="stats"/></p>
+<p align="left"><img src="https://streak-stats.demolab.com?user=LagoJournal&theme=gotham&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="stats"/></p>
+
+
+
+
+
+
