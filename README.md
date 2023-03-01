@@ -4,7 +4,7 @@
 
 <br/>
 
-🌱 I love learning new technologies and increase my stack so i'm constantly researching new stuff!
+🌱 I love learning new technologies and increasing my stack so i'm constantly researching new stuff!
 
 👨‍💻 I'm currently expanding my skills on **TypeScript** and Web3 libraries such as **Ethers.Js** & **Web3.Js**
 
