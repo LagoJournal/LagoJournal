@@ -6,7 +6,7 @@
 
 🌱 I love learning new technologies and increasing my stack so i'm constantly researching new stuff!
 
-👨‍💻 I'm currently expanding my skills on **TypeScript** and Web3 libraries such as **Ethers.Js** & **Web3.Js**
+👨‍💻 I'm currently expanding my skills on **TypeScript**, **NextJs** and Web3 libraries such as **Web3.Js**
 
 🤝 Wanna work together? Feel free to contact me!
 
